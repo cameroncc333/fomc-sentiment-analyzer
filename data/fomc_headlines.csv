@@ -1,0 +1,919 @@
+date,headline,fomc_date,market_env,rate_action,spy_5d_return,vix_level
+2015-01-21,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-26,Wall Street holds steady as traders await FOMC statement for forward guidance,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-22,Trading volume drops below 20-day average as market awaits Fed direction,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-26,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-22,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-21,Wall Street climbs on expectations Fed will signal patience on rates,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-27,Financial markets in holding pattern as Fed decision approaches,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-22,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-26,Stocks show muted reaction as two-day FOMC meeting opens,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-21,S&P 500 little changed as consensus expects Fed to hold rates steady,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-01-22,Markets tread water as Fed meeting begins with no rate change anticipated,2015-01-28,neutral,hold,-0.001674141115797112,17.219999313354492
+2015-03-17,Wall Street climbs on expectations Fed will signal patience on rates,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-16,Market breadth improves ahead of FOMC as defensive rotation fades,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-12,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-17,Equity futures point higher ahead of FOMC as Treasury yields pull back,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-12,Risk appetite expands as markets position for favorable FOMC outcome,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-16,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-16,Stocks show muted reaction as two-day FOMC meeting opens,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-03-17,Financial markets buoyant as Fed watchers forecast steady policy ahead,2015-03-18,bullish,hold,0.01691952201113711,15.65999984741211
+2015-04-27,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-23,Financial markets in holding pattern as Fed decision approaches,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-22,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-27,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-27,Markets slide as investors brace for hawkish Federal Reserve decision,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-23,Wall Street climbs on expectations Fed will signal patience on rates,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-27,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-27,Trading volume drops below 20-day average as market awaits Fed direction,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-04-23,Stocks show muted reaction as two-day FOMC meeting opens,2015-04-29,neutral,hold,0.0038452223332408053,12.40999984741211
+2015-06-10,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-10,Stocks show muted reaction as two-day FOMC meeting opens,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-16,S&P 500 little changed as consensus expects Fed to hold rates steady,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-16,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-16,Trading volume drops below 20-day average as market awaits Fed direction,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-16,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-11,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-12,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-12,Markets slide as investors brace for hawkish Federal Reserve decision,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-16,Wall Street climbs on expectations Fed will signal patience on rates,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-06-12,Wall Street holds steady as traders await FOMC statement for forward guidance,2015-06-17,neutral,hold,-0.0033184327626930576,14.8100004196167
+2015-07-22,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-24,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-23,Markets tumble as traders price in more aggressive terminal rate forecast,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-24,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-24,Investor caution intensifies ahead of Fed decision as yield curve inverts,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-28,Stocks show muted reaction as two-day FOMC meeting opens,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-22,Equity sell-off deepens ahead of Fed as inflation expectations climb,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-24,Financial stocks lead decline as hawkish dot plot expectations build,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-07-28,Defensive sectors outperform as risk-off positioning accelerates before Fed,2015-07-29,bearish,hold,-0.009651133336689988,13.4399995803833
+2015-09-10,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-14,Markets tread water as Fed meeting begins with no rate change anticipated,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-10,Wall Street holds steady as traders await FOMC statement for forward guidance,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-11,Trading volume drops below 20-day average as market awaits Fed direction,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-10,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-14,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-14,Implied volatility compresses ahead of FOMC as market expects no surprises,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-11,Wall Street climbs on expectations Fed will signal patience on rates,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-15,Stocks show muted reaction as two-day FOMC meeting opens,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-15,Financial markets in holding pattern as Fed decision approaches,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-10,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-09-16,Markets slide as investors brace for hawkish Federal Reserve decision,2015-09-17,neutral,hold,0.02210889854248732,21.350000381469727
+2015-10-27,Wall Street climbs on expectations Fed will signal patience on rates,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-22,Stocks gain momentum as traders anticipate accommodative Fed stance,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-21,Financial markets buoyant as Fed watchers forecast steady policy ahead,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-27,Risk appetite expands as markets position for favorable FOMC outcome,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-23,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-23,Stocks show muted reaction as two-day FOMC meeting opens,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-27,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-21,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-27,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-23,Bond yields ease as traders expect Fed to maintain accommodative posture,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-26,S&P 500 hits session highs as Fed meeting approaches with optimism building,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-10-22,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-10-28,bullish,hold,0.023532228326825777,15.430000305175781
+2015-12-09,Yield curve steepens as front-end reprices for imminent rate increase,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-15,Trading volume drops below 20-day average as market awaits Fed direction,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-15,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-11,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-14,Markets slide as investors brace for hawkish Federal Reserve decision,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-09,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-10,Implied volatility compresses ahead of FOMC as market expects no surprises,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-14,Markets adjust to likely rate increase as core PCE remains above 2% target,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-10,Markets tread water as Fed meeting begins with no rate change anticipated,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2015-12-11,Markets trade in narrow range ahead of Federal Reserve policy decision,2015-12-16,neutral,hike,-0.0015096701136435575,20.950000762939453
+2016-01-20,Defensive sectors outperform as risk-off positioning accelerates before Fed,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-22,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-21,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-21,Volatility spikes ahead of FOMC as options market prices larger rate move,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-22,Markets trade in narrow range ahead of Federal Reserve policy decision,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-21,Stocks show muted reaction as two-day FOMC meeting opens,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-22,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-25,Financial stocks lead decline as hawkish dot plot expectations build,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-22,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-01-22,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2016-01-27,bearish,hold,0.02450915803027054,22.5
+2016-03-14,Equity futures point higher ahead of FOMC as Treasury yields pull back,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-11,Markets trade in narrow range ahead of Federal Reserve policy decision,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-10,Risk appetite expands as markets position for favorable FOMC outcome,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-14,Bond yields ease as traders expect Fed to maintain accommodative posture,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-15,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-10,Stocks gain momentum as traders anticipate accommodative Fed stance,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-10,Market breadth improves ahead of FOMC as defensive rotation fades,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-15,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-14,Wall Street climbs on expectations Fed will signal patience on rates,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-15,Stocks show muted reaction as two-day FOMC meeting opens,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-03-10,Financial markets buoyant as Fed watchers forecast steady policy ahead,2016-03-16,bullish,hold,0.013993425361848555,16.84000015258789
+2016-04-21,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-21,Stocks show muted reaction as two-day FOMC meeting opens,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-22,Markets trade in narrow range ahead of Federal Reserve policy decision,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-26,Markets tumble as traders price in more aggressive terminal rate forecast,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-22,Markets slide as investors brace for hawkish Federal Reserve decision,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-26,Equity sell-off deepens ahead of Fed as inflation expectations climb,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-20,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-25,Investor caution intensifies ahead of Fed decision as yield curve inverts,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-25,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-25,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-22,Defensive sectors outperform as risk-off positioning accelerates before Fed,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-04-20,Financial stocks lead decline as hawkish dot plot expectations build,2016-04-27,bearish,hold,-0.005616470512204819,13.960000038146973
+2016-06-09,Markets tumble as traders price in more aggressive terminal rate forecast,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-10,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-10,Volatility spikes ahead of FOMC as options market prices larger rate move,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-08,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-10,Defensive sectors outperform as risk-off positioning accelerates before Fed,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-10,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-10,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-06-13,Financial stocks lead decline as hawkish dot plot expectations build,2016-06-15,bearish,hold,-0.020388712099403183,20.5
+2016-07-20,S&P 500 little changed as consensus expects Fed to hold rates steady,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-22,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-21,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-26,Implied volatility compresses ahead of FOMC as market expects no surprises,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-20,Trading volume drops below 20-day average as market awaits Fed direction,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-20,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-26,Financial markets in holding pattern as Fed decision approaches,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-20,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-22,Stocks show muted reaction as two-day FOMC meeting opens,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-21,Markets tread water as Fed meeting begins with no rate change anticipated,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-26,Markets slide as investors brace for hawkish Federal Reserve decision,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-07-21,Wall Street climbs on expectations Fed will signal patience on rates,2016-07-27,neutral,hold,-0.0015658249345995578,13.050000190734863
+2016-09-19,Markets trade in narrow range ahead of Federal Reserve policy decision,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-16,Stocks show muted reaction as two-day FOMC meeting opens,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-19,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-19,S&P 500 hits session highs as Fed meeting approaches with optimism building,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-19,Financial markets buoyant as Fed watchers forecast steady policy ahead,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-20,Bond yields ease as traders expect Fed to maintain accommodative posture,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-20,Market breadth improves ahead of FOMC as defensive rotation fades,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-20,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-16,Equity futures point higher ahead of FOMC as Treasury yields pull back,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-14,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-19,Wall Street climbs on expectations Fed will signal patience on rates,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-09-19,Stocks gain momentum as traders anticipate accommodative Fed stance,2016-09-21,bullish,hold,0.006324418670346388,15.920000076293945
+2016-10-27,Volatility spikes ahead of FOMC as options market prices larger rate move,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-28,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-27,Stocks show muted reaction as two-day FOMC meeting opens,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-31,Markets tumble as traders price in more aggressive terminal rate forecast,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-31,Markets slide as investors brace for hawkish Federal Reserve decision,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-28,Markets trade in narrow range ahead of Federal Reserve policy decision,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-11-01,Risk assets under pressure as Fed meeting looms with rate hike priced in,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-31,Equity sell-off deepens ahead of Fed as inflation expectations climb,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-26,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-10-31,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2016-11-02,bearish,hold,-0.012772433288938179,18.559999465942383
+2016-12-09,Stocks gain momentum as traders anticipate accommodative Fed stance,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-08,Wall Street holds steady as traders await FOMC statement for forward guidance,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-07,Wall Street climbs on expectations Fed will signal patience on rates,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-12,Yield curve steepens as front-end reprices for imminent rate increase,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-08,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-12,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-09,S&P 500 hits session highs as Fed meeting approaches with optimism building,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-13,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2016-12-09,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2016-12-14,bullish,hike,0.014069131550167313,12.720000267028809
+2017-01-31,Markets tumble as traders price in more aggressive terminal rate forecast,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-30,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-31,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-25,Investor caution intensifies ahead of Fed decision as yield curve inverts,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-25,Volatility spikes ahead of FOMC as options market prices larger rate move,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-31,Equity sell-off deepens ahead of Fed as inflation expectations climb,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-25,Markets slide as investors brace for hawkish Federal Reserve decision,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-25,Financial stocks lead decline as hawkish dot plot expectations build,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-27,Defensive sectors outperform as risk-off positioning accelerates before Fed,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-01-26,Markets trade in narrow range ahead of Federal Reserve policy decision,2017-02-01,bearish,hold,-0.008886153719188883,11.989999771118164
+2017-03-08,Trading volume drops below 20-day average as market awaits Fed direction,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-09,Implied volatility compresses ahead of FOMC as market expects no surprises,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-13,Wall Street holds steady as traders await FOMC statement for forward guidance,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-09,Stocks show muted reaction as two-day FOMC meeting opens,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-13,Financial markets in holding pattern as Fed decision approaches,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-13,Bond traders brace for Fed tightening as labor market data runs hot,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-10,Markets slide as investors brace for hawkish Federal Reserve decision,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-13,S&P 500 little changed as consensus expects Fed to hold rates steady,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-03-14,Yield curve steepens as front-end reprices for imminent rate increase,2017-03-15,neutral,hike,0.0014369644115599378,12.300000190734863
+2017-05-02,Financial markets in holding pattern as Fed decision approaches,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-05-02,Markets tread water as Fed meeting begins with no rate change anticipated,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-26,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-28,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-28,Trading volume drops below 20-day average as market awaits Fed direction,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-26,Wall Street climbs on expectations Fed will signal patience on rates,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-27,Stocks show muted reaction as two-day FOMC meeting opens,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-28,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-05-02,Markets trade in narrow range ahead of Federal Reserve policy decision,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-05-02,Wall Street holds steady as traders await FOMC statement for forward guidance,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-05-01,S&P 500 little changed as consensus expects Fed to hold rates steady,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-04-28,Implied volatility compresses ahead of FOMC as market expects no surprises,2017-05-03,neutral,hold,0.0015520423562080943,10.59000015258789
+2017-06-13,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-08,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-12,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-07,Financial markets in holding pattern as Fed decision approaches,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-12,Trading volume drops below 20-day average as market awaits Fed direction,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-07,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-09,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-07,Markets tread water as Fed meeting begins with no rate change anticipated,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-08,Implied volatility compresses ahead of FOMC as market expects no surprises,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-13,Markets trade in narrow range ahead of Federal Reserve policy decision,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-06-07,S&P 500 little changed as consensus expects Fed to hold rates steady,2017-06-14,neutral,hike,0.00365266531257058,10.420000076293945
+2017-07-19,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-20,Trading volume drops below 20-day average as market awaits Fed direction,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-19,Markets slide as investors brace for hawkish Federal Reserve decision,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,S&P 500 little changed as consensus expects Fed to hold rates steady,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-21,Markets trade in narrow range ahead of Federal Reserve policy decision,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,Stocks show muted reaction as two-day FOMC meeting opens,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,Wall Street climbs on expectations Fed will signal patience on rates,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,Implied volatility compresses ahead of FOMC as market expects no surprises,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-20,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-25,Markets tread water as Fed meeting begins with no rate change anticipated,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-07-19,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2017-07-26,neutral,hold,0.0017408550693842617,9.430000305175781
+2017-09-13,Markets tread water as Fed meeting begins with no rate change anticipated,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-13,Markets slide as investors brace for hawkish Federal Reserve decision,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-15,Wall Street holds steady as traders await FOMC statement for forward guidance,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-14,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-19,Implied volatility compresses ahead of FOMC as market expects no surprises,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-14,Trading volume drops below 20-day average as market awaits Fed direction,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-15,Wall Street climbs on expectations Fed will signal patience on rates,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-13,S&P 500 little changed as consensus expects Fed to hold rates steady,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-14,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-09-13,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2017-09-20,neutral,hold,0.0041593408108744345,10.180000305175781
+2017-10-26,S&P 500 hits session highs as Fed meeting approaches with optimism building,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-31,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-30,Wall Street climbs on expectations Fed will signal patience on rates,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-30,Equity futures point higher ahead of FOMC as Treasury yields pull back,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-26,Financial markets buoyant as Fed watchers forecast steady policy ahead,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-31,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-25,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-10-25,Stocks gain momentum as traders anticipate accommodative Fed stance,2017-11-01,bullish,hold,0.007285768490121081,10.180000305175781
+2017-12-08,Bond yields ease as traders expect Fed to maintain accommodative posture,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-06,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-07,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-08,Yield curve steepens as front-end reprices for imminent rate increase,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-11,Stocks show muted reaction as two-day FOMC meeting opens,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-11,Market breadth improves ahead of FOMC as defensive rotation fades,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-08,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-08,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2017-12-06,S&P 500 hits session highs as Fed meeting approaches with optimism building,2017-12-13,bullish,hike,0.0134477516749536,9.920000076293945
+2018-01-24,Stocks show muted reaction as two-day FOMC meeting opens,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-24,Markets adjust to likely rate increase as core PCE remains above 2% target,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-24,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-24,Equity sell-off deepens ahead of Fed as inflation expectations climb,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-26,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-25,Risk assets under pressure as Fed meeting looms with rate hike priced in,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-24,Markets tumble as traders price in more aggressive terminal rate forecast,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-25,Volatility spikes ahead of FOMC as options market prices larger rate move,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-26,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-26,Wall Street holds steady as traders await FOMC statement for forward guidance,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-25,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-01-30,Yield curve steepens as front-end reprices for imminent rate increase,2018-01-31,bearish,hike,-0.0050142813904079375,14.789999961853027
+2018-03-15,Investor caution intensifies ahead of Fed decision as yield curve inverts,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-14,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-19,Markets trade in narrow range ahead of Federal Reserve policy decision,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-15,Volatility spikes ahead of FOMC as options market prices larger rate move,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-15,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-19,Equity sell-off deepens ahead of Fed as inflation expectations climb,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-19,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-15,Bond traders brace for Fed tightening as labor market data runs hot,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-03-19,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2018-03-21,bearish,hike,-0.011858876106076499,18.200000762939453
+2018-04-27,Wall Street climbs on expectations Fed will signal patience on rates,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-25,Stocks gain momentum as traders anticipate accommodative Fed stance,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-30,Bond yields ease as traders expect Fed to maintain accommodative posture,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-27,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-25,Stocks show muted reaction as two-day FOMC meeting opens,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-05-01,Wall Street holds steady as traders await FOMC statement for forward guidance,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-30,Financial markets buoyant as Fed watchers forecast steady policy ahead,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-30,Markets trade in narrow range ahead of Federal Reserve policy decision,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-30,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-27,Equity futures point higher ahead of FOMC as Treasury yields pull back,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-04-25,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2018-05-02,bullish,hold,0.005120923483572071,15.489999771118164
+2018-06-07,S&P 500 hits session highs as Fed meeting approaches with optimism building,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-12,Financial markets buoyant as Fed watchers forecast steady policy ahead,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Markets adjust to likely rate increase as core PCE remains above 2% target,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Wall Street holds steady as traders await FOMC statement for forward guidance,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-08,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Stocks gain momentum as traders anticipate accommodative Fed stance,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Market breadth improves ahead of FOMC as defensive rotation fades,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Wall Street climbs on expectations Fed will signal patience on rates,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-06,Markets trade in narrow range ahead of Federal Reserve policy decision,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-11,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-11,Equity futures point higher ahead of FOMC as Treasury yields pull back,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-06-08,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2018-06-13,bullish,hike,0.005479537323629158,12.34000015258789
+2018-07-27,Investor caution intensifies ahead of Fed decision as yield curve inverts,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-27,Volatility spikes ahead of FOMC as options market prices larger rate move,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-30,Markets tumble as traders price in more aggressive terminal rate forecast,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-26,Stocks show muted reaction as two-day FOMC meeting opens,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-31,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-26,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-25,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-07-27,Markets trade in narrow range ahead of Federal Reserve policy decision,2018-08-01,bearish,hold,-0.009436027563192062,12.829999923706055
+2018-09-21,Markets trade in narrow range ahead of Federal Reserve policy decision,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-21,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-24,Financial markets in holding pattern as Fed decision approaches,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-20,Markets slide as investors brace for hawkish Federal Reserve decision,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-25,Implied volatility compresses ahead of FOMC as market expects no surprises,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-25,Wall Street climbs on expectations Fed will signal patience on rates,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-20,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-09-24,Trading volume drops below 20-day average as market awaits Fed direction,2018-09-26,neutral,hike,0.002905558373779815,12.420000076293945
+2018-11-01,Stocks gain momentum as traders anticipate accommodative Fed stance,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-06,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-01,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-05,Wall Street holds steady as traders await FOMC statement for forward guidance,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-05,Equity futures point higher ahead of FOMC as Treasury yields pull back,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-05,Market breadth improves ahead of FOMC as defensive rotation fades,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-05,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-07,Wall Street climbs on expectations Fed will signal patience on rates,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-05,Stocks show muted reaction as two-day FOMC meeting opens,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-11-02,Financial markets buoyant as Fed watchers forecast steady policy ahead,2018-11-08,bullish,hold,0.02742115795337785,16.360000610351562
+2018-12-17,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-12,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-14,Wall Street holds steady as traders await FOMC statement for forward guidance,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-18,Investor caution intensifies ahead of Fed decision as yield curve inverts,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-17,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-18,Equity sell-off deepens ahead of Fed as inflation expectations climb,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-18,Financial stocks lead decline as hawkish dot plot expectations build,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-14,Volatility spikes ahead of FOMC as options market prices larger rate move,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-12,Markets slide as investors brace for hawkish Federal Reserve decision,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-18,Stocks show muted reaction as two-day FOMC meeting opens,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2018-12-17,Markets adjust to likely rate increase as core PCE remains above 2% target,2018-12-19,bearish,hike,-0.03910151144799412,25.579999923706055
+2019-01-28,Wall Street climbs on expectations Fed will signal patience on rates,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-23,Markets tread water as Fed meeting begins with no rate change anticipated,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-28,S&P 500 little changed as consensus expects Fed to hold rates steady,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-25,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-25,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-25,Financial markets in holding pattern as Fed decision approaches,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-24,Trading volume drops below 20-day average as market awaits Fed direction,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-23,Markets slide as investors brace for hawkish Federal Reserve decision,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-28,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-01-28,Stocks show muted reaction as two-day FOMC meeting opens,2019-01-30,neutral,hold,0.0,19.1299991607666
+2019-03-13,S&P 500 hits session highs as Fed meeting approaches with optimism building,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-14,Stocks show muted reaction as two-day FOMC meeting opens,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-19,Financial markets buoyant as Fed watchers forecast steady policy ahead,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-14,Market breadth improves ahead of FOMC as defensive rotation fades,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-18,Wall Street climbs on expectations Fed will signal patience on rates,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-15,Equity futures point higher ahead of FOMC as Treasury yields pull back,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-19,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-13,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-18,Wall Street holds steady as traders await FOMC statement for forward guidance,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-03-14,Markets trade in narrow range ahead of Federal Reserve policy decision,2019-03-20,bullish,hold,0.008188592330351518,13.5600004196167
+2019-04-26,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-24,Market breadth improves ahead of FOMC as defensive rotation fades,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-24,Markets trade in narrow range ahead of Federal Reserve policy decision,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-30,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-30,Wall Street climbs on expectations Fed will signal patience on rates,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-24,S&P 500 hits session highs as Fed meeting approaches with optimism building,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-24,Equity futures point higher ahead of FOMC as Treasury yields pull back,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-25,Risk appetite expands as markets position for favorable FOMC outcome,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-04-26,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2019-05-01,bullish,hold,0.006125403668147511,13.119999885559082
+2019-06-18,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-14,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-18,Markets trade in narrow range ahead of Federal Reserve policy decision,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-17,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-14,Bond yields ease as traders expect Fed to maintain accommodative posture,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-17,Wall Street climbs on expectations Fed will signal patience on rates,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-14,Equity futures point higher ahead of FOMC as Treasury yields pull back,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-06-12,Stocks show muted reaction as two-day FOMC meeting opens,2019-06-19,bullish,hold,0.013904851673750773,15.149999618530273
+2019-07-30,Wall Street holds steady as traders await FOMC statement for forward guidance,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-29,Implied volatility compresses ahead of FOMC as market expects no surprises,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-29,S&P 500 little changed as consensus expects Fed to hold rates steady,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-24,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-29,Markets slide as investors brace for hawkish Federal Reserve decision,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-25,Bond market pricing suggests 25bp cut as economic indicators soften,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-29,Financial markets in holding pattern as Fed decision approaches,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-24,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-29,Investors extend duration ahead of expected Fed pivot to accommodation,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-25,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-07-30,Wall Street climbs on expectations Fed will signal patience on rates,2019-07-31,neutral,cut,-0.0023882299652736583,13.9399995803833
+2019-09-13,Bond market pricing suggests 25bp cut as economic indicators soften,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-17,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-16,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-12,Investors extend duration ahead of expected Fed pivot to accommodation,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-13,Wall Street holds steady as traders await FOMC statement for forward guidance,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-13,Wall Street climbs on expectations Fed will signal patience on rates,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-17,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-12,Markets slide as investors brace for hawkish Federal Reserve decision,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-11,Markets tread water as Fed meeting begins with no rate change anticipated,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-13,Markets trade in narrow range ahead of Federal Reserve policy decision,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-17,Stocks show muted reaction as two-day FOMC meeting opens,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-09-11,S&P 500 little changed as consensus expects Fed to hold rates steady,2019-09-18,neutral,cut,0.002231515274550233,14.4399995803833
+2019-10-29,Rate-sensitive sectors rally on expectations of Fed easing this week,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-29,Stocks show muted reaction as two-day FOMC meeting opens,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-29,Market breadth improves ahead of FOMC as defensive rotation fades,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-29,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-28,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-23,Equity futures point higher ahead of FOMC as Treasury yields pull back,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-25,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-25,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-25,Financial markets buoyant as Fed watchers forecast steady policy ahead,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-25,Wall Street climbs on expectations Fed will signal patience on rates,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-10-28,Markets trade in narrow range ahead of Federal Reserve policy decision,2019-10-30,bullish,cut,0.011104553480166146,13.199999809265137
+2019-12-05,Wall Street climbs on expectations Fed will signal patience on rates,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-09,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-09,Bond yields ease as traders expect Fed to maintain accommodative posture,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-04,Stocks gain momentum as traders anticipate accommodative Fed stance,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-06,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-09,Risk appetite expands as markets position for favorable FOMC outcome,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-10,Financial markets buoyant as Fed watchers forecast steady policy ahead,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-04,Wall Street holds steady as traders await FOMC statement for forward guidance,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-05,Equity futures point higher ahead of FOMC as Treasury yields pull back,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-04,Market breadth improves ahead of FOMC as defensive rotation fades,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2019-12-05,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2019-12-11,bullish,hold,0.006646101863653886,15.680000305175781
+2020-01-24,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-27,Markets tumble as traders price in more aggressive terminal rate forecast,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-27,Markets slide as investors brace for hawkish Federal Reserve decision,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-23,Financial stocks lead decline as hawkish dot plot expectations build,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-27,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-22,Stocks show muted reaction as two-day FOMC meeting opens,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-27,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-28,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-28,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-23,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-01-24,Equity sell-off deepens ahead of Fed as inflation expectations climb,2020-01-29,bearish,hold,-0.013430414139794511,16.280000686645508
+2020-03-02,Bond market pricing suggests 25bp cut as economic indicators soften,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-25,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-25,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-28,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-26,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-03-02,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-03-02,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-27,Markets tumble as traders price in more aggressive terminal rate forecast,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-25,Financial stocks lead decline as hawkish dot plot expectations build,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-03-02,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-02-25,Markets slide as investors brace for hawkish Federal Reserve decision,2020-03-03,bearish,cut,-0.011386067495897212,33.41999816894531
+2020-03-09,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-11,Investors extend duration ahead of expected Fed pivot to accommodation,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-12,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-10,Investor caution intensifies ahead of Fed decision as yield curve inverts,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-12,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-09,Equity sell-off deepens ahead of Fed as inflation expectations climb,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-13,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-03-13,Fed funds futures signal 85% probability of rate reduction at FOMC,2020-03-15,bearish,cut,-0.017904680073166257,57.83000183105469
+2020-04-22,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-28,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-22,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-22,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-24,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-27,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-28,Stocks show muted reaction as two-day FOMC meeting opens,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-24,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-27,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-27,Investor caution intensifies ahead of Fed decision as yield curve inverts,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-04-23,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-04-29,bearish,hold,0.02375469684734166,33.56999969482422
+2020-06-08,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-04,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-09,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-04,Financial stocks lead decline as hawkish dot plot expectations build,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-08,Stocks show muted reaction as two-day FOMC meeting opens,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-03,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-09,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-06-09,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-06-10,bearish,hold,0.02758036967727917,27.56999969482422
+2020-07-24,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-23,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-23,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-22,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-22,Equity sell-off deepens ahead of Fed as inflation expectations climb,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-27,Markets slide as investors brace for hawkish Federal Reserve decision,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-27,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-28,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-22,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-07-24,Financial stocks lead decline as hawkish dot plot expectations build,2020-07-29,bearish,hold,-0.017407994110571368,25.440000534057617
+2020-09-11,Financial stocks lead decline as hawkish dot plot expectations build,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-10,Markets tumble as traders price in more aggressive terminal rate forecast,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-10,Investor caution intensifies ahead of Fed decision as yield curve inverts,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-09,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-09,Stocks show muted reaction as two-day FOMC meeting opens,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-15,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-14,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-09,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-10,Markets slide as investors brace for hawkish Federal Reserve decision,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-11,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-10,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-09-14,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-09-16,bearish,hold,0.0011184721541970255,25.59000015258789
+2020-11-04,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-04,Risk assets under pressure as Fed meeting looms with rate hike priced in,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-02,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-10-30,Equity sell-off deepens ahead of Fed as inflation expectations climb,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-03,Markets tumble as traders price in more aggressive terminal rate forecast,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-03,Financial stocks lead decline as hawkish dot plot expectations build,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-10-29,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-10-29,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-03,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-10-29,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-11-02,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-11-05,bearish,hold,0.04109320487749346,29.56999969482422
+2020-12-14,Investor caution intensifies ahead of Fed decision as yield curve inverts,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-09,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-11,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-15,Markets trade in narrow range ahead of Federal Reserve policy decision,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-11,Wall Street holds steady as traders await FOMC statement for forward guidance,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-14,Volatility spikes ahead of FOMC as options market prices larger rate move,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-10,Defensive sectors outperform as risk-off positioning accelerates before Fed,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-09,Stocks show muted reaction as two-day FOMC meeting opens,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2020-12-15,Markets slide as investors brace for hawkish Federal Reserve decision,2020-12-16,bearish,hold,0.0074690374033390405,22.889999389648438
+2021-01-22,Investor caution intensifies ahead of Fed decision as yield curve inverts,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-25,Financial stocks lead decline as hawkish dot plot expectations build,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-20,Volatility spikes ahead of FOMC as options market prices larger rate move,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-20,Stocks show muted reaction as two-day FOMC meeting opens,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-22,Defensive sectors outperform as risk-off positioning accelerates before Fed,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-22,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-21,Markets tumble as traders price in more aggressive terminal rate forecast,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-26,Equity sell-off deepens ahead of Fed as inflation expectations climb,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-22,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-22,Risk assets under pressure as Fed meeting looms with rate hike priced in,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-01-20,Markets slide as investors brace for hawkish Federal Reserve decision,2021-01-27,bearish,hold,-0.0002606206768520636,23.020000457763672
+2021-03-15,Financial markets buoyant as Fed watchers forecast steady policy ahead,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-10,Stocks show muted reaction as two-day FOMC meeting opens,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-16,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-16,Wall Street climbs on expectations Fed will signal patience on rates,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-16,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-16,Risk appetite expands as markets position for favorable FOMC outcome,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-16,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-03-10,Equity futures point higher ahead of FOMC as Treasury yields pull back,2021-03-17,bullish,hold,0.016248380080337688,19.790000915527344
+2021-04-26,Markets trade in narrow range ahead of Federal Reserve policy decision,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-22,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-23,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-21,Wall Street climbs on expectations Fed will signal patience on rates,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-22,Trading volume drops below 20-day average as market awaits Fed direction,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-23,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-23,Markets tread water as Fed meeting begins with no rate change anticipated,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-27,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-21,Markets slide as investors brace for hawkish Federal Reserve decision,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-04-27,Stocks show muted reaction as two-day FOMC meeting opens,2021-04-28,neutral,hold,0.003484998611168022,17.559999465942383
+2021-06-15,Equity futures point higher ahead of FOMC as Treasury yields pull back,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-14,Bond yields ease as traders expect Fed to maintain accommodative posture,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-15,S&P 500 hits session highs as Fed meeting approaches with optimism building,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-10,Wall Street climbs on expectations Fed will signal patience on rates,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-11,Stocks show muted reaction as two-day FOMC meeting opens,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-14,Markets trade in narrow range ahead of Federal Reserve policy decision,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-15,Risk appetite expands as markets position for favorable FOMC outcome,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-09,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-06-14,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2021-06-16,bullish,hold,0.006711847305919338,17.020000457763672
+2021-07-21,S&P 500 hits session highs as Fed meeting approaches with optimism building,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-26,Financial markets buoyant as Fed watchers forecast steady policy ahead,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-22,Wall Street climbs on expectations Fed will signal patience on rates,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-23,Stocks gain momentum as traders anticipate accommodative Fed stance,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-26,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-23,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-26,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-27,Market breadth improves ahead of FOMC as defensive rotation fades,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-07-23,Markets trade in narrow range ahead of Federal Reserve policy decision,2021-07-28,bullish,hold,0.010263658184043178,19.360000610351562
+2021-09-15,Stocks show muted reaction as two-day FOMC meeting opens,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-20,Volatility spikes ahead of FOMC as options market prices larger rate move,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-21,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-15,Markets tumble as traders price in more aggressive terminal rate forecast,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-20,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-16,Markets slide as investors brace for hawkish Federal Reserve decision,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-20,Equity sell-off deepens ahead of Fed as inflation expectations climb,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-17,Financial stocks lead decline as hawkish dot plot expectations build,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-20,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-20,Investor caution intensifies ahead of Fed decision as yield curve inverts,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-09-17,Risk assets under pressure as Fed meeting looms with rate hike priced in,2021-09-22,bearish,hold,-0.02871488509283049,24.360000610351562
+2021-11-01,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-11-02,Market breadth improves ahead of FOMC as defensive rotation fades,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-28,Stocks show muted reaction as two-day FOMC meeting opens,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-27,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-11-02,Bond yields ease as traders expect Fed to maintain accommodative posture,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-11-02,Financial markets buoyant as Fed watchers forecast steady policy ahead,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-29,Equity futures point higher ahead of FOMC as Treasury yields pull back,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-27,Risk appetite expands as markets position for favorable FOMC outcome,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-11-01,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-28,S&P 500 hits session highs as Fed meeting approaches with optimism building,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-11-01,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-10-27,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2021-11-03,bullish,hold,0.017535296513022436,16.030000686645508
+2021-12-09,Markets tumble as traders price in more aggressive terminal rate forecast,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-10,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-08,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-13,Defensive sectors outperform as risk-off positioning accelerates before Fed,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-14,Wall Street holds steady as traders await FOMC statement for forward guidance,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-09,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-09,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2021-12-10,Volatility spikes ahead of FOMC as options market prices larger rate move,2021-12-15,bearish,hold,-0.01311985051796194,21.889999389648438
+2022-01-19,Equity sell-off deepens ahead of Fed as inflation expectations climb,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-25,Stocks show muted reaction as two-day FOMC meeting opens,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-21,Defensive sectors outperform as risk-off positioning accelerates before Fed,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-20,Investor caution intensifies ahead of Fed decision as yield curve inverts,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-24,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-25,Markets slide as investors brace for hawkish Federal Reserve decision,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-19,Volatility spikes ahead of FOMC as options market prices larger rate move,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-21,Financial stocks lead decline as hawkish dot plot expectations build,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-24,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-01-21,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2022-01-26,bearish,hold,-0.038251166156101135,31.15999984741211
+2022-03-11,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-15,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-14,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-10,Volatility spikes ahead of FOMC as options market prices larger rate move,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-14,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-15,Markets slide as investors brace for hawkish Federal Reserve decision,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-15,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-09,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-03-11,Risk assets under pressure as Fed meeting looms with rate hike priced in,2022-03-16,bearish,hike,-0.0029011033260242236,29.829999923706055
+2022-05-02,Equity sell-off deepens ahead of Fed as inflation expectations climb,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-29,Financial stocks lead decline as hawkish dot plot expectations build,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-27,Markets adjust to likely rate increase as core PCE remains above 2% target,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-27,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-05-03,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-29,Defensive sectors outperform as risk-off positioning accelerates before Fed,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-28,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-05-03,Markets trade in narrow range ahead of Federal Reserve policy decision,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-29,Markets slide as investors brace for hawkish Federal Reserve decision,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-04-29,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-05-04,bearish,hike,-0.002132782501707897,29.25
+2022-06-13,Markets adjust to likely rate increase as core PCE remains above 2% target,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-09,Markets slide as investors brace for hawkish Federal Reserve decision,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-13,Investor caution intensifies ahead of Fed decision as yield curve inverts,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-08,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-08,Bond traders brace for Fed tightening as labor market data runs hot,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-09,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-13,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-06-08,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2022-06-15,bearish,hike,-0.09082729278075441,32.689998626708984
+2022-07-20,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-20,Volatility spikes ahead of FOMC as options market prices larger rate move,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-21,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-21,Risk assets under pressure as Fed meeting looms with rate hike priced in,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-21,Equity sell-off deepens ahead of Fed as inflation expectations climb,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-25,Markets trade in narrow range ahead of Federal Reserve policy decision,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-21,Markets slide as investors brace for hawkish Federal Reserve decision,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-22,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-26,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-07-21,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-07-27,bearish,hike,-0.009828687148636273,24.690000534057617
+2022-09-16,Markets tumble as traders price in more aggressive terminal rate forecast,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-16,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-19,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-19,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-19,Yield curve steepens as front-end reprices for imminent rate increase,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-19,Investor caution intensifies ahead of Fed decision as yield curve inverts,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-14,Financial stocks lead decline as hawkish dot plot expectations build,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-09-15,Risk assets under pressure as Fed meeting looms with rate hike priced in,2022-09-21,bearish,hike,-0.0226359597969209,27.15999984741211
+2022-10-27,Bond traders brace for Fed tightening as labor market data runs hot,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-26,Risk assets under pressure as Fed meeting looms with rate hike priced in,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-26,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-26,Markets slide as investors brace for hawkish Federal Reserve decision,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-28,Investor caution intensifies ahead of Fed decision as yield curve inverts,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-27,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-10-28,Yield curve steepens as front-end reprices for imminent rate increase,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-11-01,Markets tumble as traders price in more aggressive terminal rate forecast,2022-11-02,bearish,hike,0.006544125907599563,25.809999465942383
+2022-12-09,Wall Street holds steady as traders await FOMC statement for forward guidance,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-12,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-08,Defensive sectors outperform as risk-off positioning accelerates before Fed,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-09,Risk assets under pressure as Fed meeting looms with rate hike priced in,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-07,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-08,Markets adjust to likely rate increase as core PCE remains above 2% target,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-07,Bond traders brace for Fed tightening as labor market data runs hot,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-08,Equity sell-off deepens ahead of Fed as inflation expectations climb,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-12,Volatility spikes ahead of FOMC as options market prices larger rate move,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-09,Fed funds futures imply 92% probability of 25bp rate increase this meeting,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-08,Investor caution intensifies ahead of Fed decision as yield curve inverts,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2022-12-13,Financial stocks lead decline as hawkish dot plot expectations build,2022-12-14,bearish,hike,0.022408087285812783,22.549999237060547
+2023-01-30,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-27,Stocks show muted reaction as two-day FOMC meeting opens,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-25,Wall Street holds steady as traders await FOMC statement for forward guidance,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-31,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-31,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-26,Bond yields ease as traders expect Fed to maintain accommodative posture,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-31,Stocks gain momentum as traders anticipate accommodative Fed stance,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-01-27,Financial markets buoyant as Fed watchers forecast steady policy ahead,2023-02-01,bullish,hike,0.015311489334159267,19.399999618530273
+2023-03-21,Markets slide as investors brace for hawkish Federal Reserve decision,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-15,Stocks show muted reaction as two-day FOMC meeting opens,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-21,Markets tread water as Fed meeting begins with no rate change anticipated,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-15,S&P 500 little changed as consensus expects Fed to hold rates steady,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-16,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-20,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-20,Wall Street holds steady as traders await FOMC statement for forward guidance,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-20,Markets adjust to likely rate increase as core PCE remains above 2% target,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-20,Implied volatility compresses ahead of FOMC as market expects no surprises,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-03-20,Markets trade in narrow range ahead of Federal Reserve policy decision,2023-03-22,neutral,hike,0.028648969168821647,21.3799991607666
+2023-04-27,Yield curve steepens as front-end reprices for imminent rate increase,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-04-28,Wall Street holds steady as traders await FOMC statement for forward guidance,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-04-28,Risk appetite expands as markets position for favorable FOMC outcome,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-04-27,S&P 500 hits session highs as Fed meeting approaches with optimism building,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-04-27,Wall Street climbs on expectations Fed will signal patience on rates,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-05-01,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-05-01,Bond traders brace for Fed tightening as labor market data runs hot,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-04-28,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-05-02,Stocks show muted reaction as two-day FOMC meeting opens,2023-05-03,bullish,hike,0.016025499001342425,17.780000686645508
+2023-06-07,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-07,S&P 500 hits session highs as Fed meeting approaches with optimism building,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-07,Markets trade in narrow range ahead of Federal Reserve policy decision,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-09,Financial markets buoyant as Fed watchers forecast steady policy ahead,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-08,Stocks show muted reaction as two-day FOMC meeting opens,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-12,Market breadth improves ahead of FOMC as defensive rotation fades,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-12,Stocks gain momentum as traders anticipate accommodative Fed stance,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-09,Risk appetite expands as markets position for favorable FOMC outcome,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-07,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-13,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-06-09,Equity futures point higher ahead of FOMC as Treasury yields pull back,2023-06-14,bullish,hold,0.023702091517146195,14.609999656677246
+2023-07-21,Rate-sensitive REITs and utilities underperform ahead of expected Fed hike,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-25,Markets slide as investors brace for hawkish Federal Reserve decision,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-20,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-19,Trading volume drops below 20-day average as market awaits Fed direction,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-24,Bond traders brace for Fed tightening as labor market data runs hot,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-20,Financial markets in holding pattern as Fed decision approaches,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-24,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-24,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-07-20,Implied volatility compresses ahead of FOMC as market expects no surprises,2023-07-26,neutral,hike,0.000527171765471568,13.859999656677246
+2023-09-18,Financial stocks lead decline as hawkish dot plot expectations build,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-14,Defensive sectors outperform as risk-off positioning accelerates before Fed,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-18,Equity sell-off deepens ahead of Fed as inflation expectations climb,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-13,Markets trade in narrow range ahead of Federal Reserve policy decision,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-13,Volatility spikes ahead of FOMC as options market prices larger rate move,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-13,Markets slide as investors brace for hawkish Federal Reserve decision,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-19,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-14,Risk assets under pressure as Fed meeting looms with rate hike priced in,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-09-13,Investor caution intensifies ahead of Fed decision as yield curve inverts,2023-09-20,bearish,hold,-0.005013010163863241,14.109999656677246
+2023-10-31,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-26,Markets tread water as Fed meeting begins with no rate change anticipated,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-26,Wall Street climbs on expectations Fed will signal patience on rates,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-25,Implied volatility compresses ahead of FOMC as market expects no surprises,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-27,Stocks show muted reaction as two-day FOMC meeting opens,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-30,Markets slide as investors brace for hawkish Federal Reserve decision,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-27,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-10-30,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2023-11-01,neutral,hold,0.0015567714884758832,18.139999389648438
+2023-12-07,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-12,Markets trade in narrow range ahead of Federal Reserve policy decision,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-08,Wall Street climbs on expectations Fed will signal patience on rates,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-06,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-06,Equity futures point higher ahead of FOMC as Treasury yields pull back,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-07,Wall Street holds steady as traders await FOMC statement for forward guidance,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-06,Stocks show muted reaction as two-day FOMC meeting opens,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-12,Stocks gain momentum as traders anticipate accommodative Fed stance,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-12,Financial markets buoyant as Fed watchers forecast steady policy ahead,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-07,S&P 500 hits session highs as Fed meeting approaches with optimism building,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-07,Risk appetite expands as markets position for favorable FOMC outcome,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2023-12-07,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2023-12-13,bullish,hold,0.020538132568369782,12.069999694824219
+2024-01-26,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-24,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-30,Equity futures point higher ahead of FOMC as Treasury yields pull back,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-30,Financial markets buoyant as Fed watchers forecast steady policy ahead,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-26,Stocks gain momentum as traders anticipate accommodative Fed stance,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-25,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-29,Bond yields ease as traders expect Fed to maintain accommodative posture,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-25,Market breadth improves ahead of FOMC as defensive rotation fades,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-01-29,Risk appetite expands as markets position for favorable FOMC outcome,2024-01-31,bullish,hold,0.01133102017620069,13.3100004196167
+2024-03-13,Markets trade in narrow range ahead of Federal Reserve policy decision,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-14,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-18,Markets tread water as Fed meeting begins with no rate change anticipated,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-18,Trading volume drops below 20-day average as market awaits Fed direction,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-14,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-18,Stocks show muted reaction as two-day FOMC meeting opens,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-13,Implied volatility compresses ahead of FOMC as market expects no surprises,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-19,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-13,S&P 500 little changed as consensus expects Fed to hold rates steady,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-03-13,Wall Street climbs on expectations Fed will signal patience on rates,2024-03-20,neutral,hold,0.0026017225822287937,13.819999694824219
+2024-04-30,Risk assets under pressure as Fed meeting looms with rate hike priced in,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-25,Markets tumble as traders price in more aggressive terminal rate forecast,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-30,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-30,Equity sell-off deepens ahead of Fed as inflation expectations climb,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-26,Markets trade in narrow range ahead of Federal Reserve policy decision,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-24,Investor caution intensifies ahead of Fed decision as yield curve inverts,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-24,Stocks show muted reaction as two-day FOMC meeting opens,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-30,Financial stocks lead decline as hawkish dot plot expectations build,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-04-29,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2024-05-01,bearish,hold,-0.006786575786439708,15.649999618530273
+2024-06-07,Markets slide as investors brace for hawkish Federal Reserve decision,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-06,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-10,Stocks show muted reaction as two-day FOMC meeting opens,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-05,Wall Street climbs on expectations Fed will signal patience on rates,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-06,S&P 500 little changed as consensus expects Fed to hold rates steady,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-07,Implied volatility compresses ahead of FOMC as market expects no surprises,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-10,Markets tread water as Fed meeting begins with no rate change anticipated,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-10,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-05,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-11,Markets trade in narrow range ahead of Federal Reserve policy decision,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-06-07,Financial markets in holding pattern as Fed decision approaches,2024-06-12,neutral,hold,0.0042643125403858395,12.850000381469727
+2024-07-24,Wall Street climbs on expectations Fed will signal patience on rates,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-26,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-25,Stocks show muted reaction as two-day FOMC meeting opens,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-30,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-30,Markets slide as investors brace for hawkish Federal Reserve decision,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-30,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-30,Markets tread water as Fed meeting begins with no rate change anticipated,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-26,Financial markets in holding pattern as Fed decision approaches,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-25,S&P 500 little changed as consensus expects Fed to hold rates steady,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-29,Trading volume drops below 20-day average as market awaits Fed direction,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-07-26,Implied volatility compresses ahead of FOMC as market expects no surprises,2024-07-31,neutral,hold,0.0014227222655227578,17.690000534057617
+2024-09-11,Markets trade in narrow range ahead of Federal Reserve policy decision,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-16,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-11,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-12,Stocks show muted reaction as two-day FOMC meeting opens,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-12,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-13,Market breadth improves ahead of FOMC as defensive rotation fades,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-16,S&P 500 hits session highs as Fed meeting approaches with optimism building,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-12,Equity futures point higher ahead of FOMC as Treasury yields pull back,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-13,Fed funds futures signal 85% probability of rate reduction at FOMC,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-09-13,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2024-09-18,bullish,cut,0.015601911332773666,17.610000610351562
+2024-11-04,Investors extend duration ahead of expected Fed pivot to accommodation,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-10-31,Financial markets buoyant as Fed watchers forecast steady policy ahead,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-01,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-04,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-05,Market breadth improves ahead of FOMC as defensive rotation fades,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-01,Wall Street holds steady as traders await FOMC statement for forward guidance,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-05,Bond yields ease as traders expect Fed to maintain accommodative posture,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-05,Wall Street climbs on expectations Fed will signal patience on rates,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-06,Markets trade in narrow range ahead of Federal Reserve policy decision,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-10-31,Equity futures point higher ahead of FOMC as Treasury yields pull back,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-01,Risk appetite expands as markets position for favorable FOMC outcome,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-11-05,Bond market pricing suggests 25bp cut as economic indicators soften,2024-11-07,bullish,cut,0.03939217999562539,16.270000457763672
+2024-12-13,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-11,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-11,Risk assets under pressure as Fed meeting looms with rate hike priced in,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-12,Markets tumble as traders price in more aggressive terminal rate forecast,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-17,Rate-sensitive sectors rally on expectations of Fed easing this week,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-16,Wall Street holds steady as traders await FOMC statement for forward guidance,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-17,Financial stocks lead decline as hawkish dot plot expectations build,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2024-12-16,Equity sell-off deepens ahead of Fed as inflation expectations climb,2024-12-18,bearish,cut,-0.00521835750709343,15.869999885559082
+2025-01-23,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-27,Trading volume drops below 20-day average as market awaits Fed direction,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-28,S&P 500 little changed as consensus expects Fed to hold rates steady,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-27,Wall Street climbs on expectations Fed will signal patience on rates,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-24,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-23,Markets tread water as Fed meeting begins with no rate change anticipated,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-27,Stocks show muted reaction as two-day FOMC meeting opens,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-28,Wall Street holds steady as traders await FOMC statement for forward guidance,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-01-27,Markets trade in narrow range ahead of Federal Reserve policy decision,2025-01-29,neutral,hold,-0.003166071088343103,16.40999984741211
+2025-03-14,Financial markets in holding pattern as Fed decision approaches,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-17,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-18,Investors adopt wait-and-see approach ahead of widely expected Fed hold,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-12,Markets slide as investors brace for hawkish Federal Reserve decision,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-12,Implied volatility compresses ahead of FOMC as market expects no surprises,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-18,Trading volume drops below 20-day average as market awaits Fed direction,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-18,Cross-asset correlations tighten ahead of FOMC as positioning stays light,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-17,Markets tread water as Fed meeting begins with no rate change anticipated,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-14,S&P 500 little changed as consensus expects Fed to hold rates steady,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-12,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-17,Wall Street holds steady as traders await FOMC statement for forward guidance,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-03-14,Wall Street climbs on expectations Fed will signal patience on rates,2025-03-19,neutral,hold,0.003846946889619174,21.700000762939453
+2025-04-30,Volatility spikes ahead of FOMC as options market prices larger rate move,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-01,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-04-30,Risk assets under pressure as Fed meeting looms with rate hike priced in,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-06,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-01,Defensive sectors outperform as risk-off positioning accelerates before Fed,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-02,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-06,Stocks show muted reaction as two-day FOMC meeting opens,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-06,Equity sell-off deepens ahead of Fed as inflation expectations climb,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-05-02,Investor caution intensifies ahead of Fed decision as yield curve inverts,2025-05-07,bearish,hold,0.007682065680242101,24.760000228881836
+2025-06-13,Financial stocks lead decline as hawkish dot plot expectations build,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-16,Wall Street holds steady as traders await FOMC statement for forward guidance,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-12,Defensive sectors outperform as risk-off positioning accelerates before Fed,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-16,Stocks show muted reaction as two-day FOMC meeting opens,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-17,Wall Street retreats on concerns Fed will accelerate balance sheet reduction,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-13,Volatility spikes ahead of FOMC as options market prices larger rate move,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-16,Markets tumble as traders price in more aggressive terminal rate forecast,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-06-12,Investor caution intensifies ahead of Fed decision as yield curve inverts,2025-06-18,bearish,hold,-0.00636874083450234,21.600000381469727
+2025-07-23,Trading volume drops below 20-day average as market awaits Fed direction,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-24,Wall Street holds steady as traders await FOMC statement for forward guidance,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-25,Stocks show muted reaction as two-day FOMC meeting opens,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-23,Wall Street climbs on expectations Fed will signal patience on rates,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-24,Implied volatility compresses ahead of FOMC as market expects no surprises,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-24,Markets trade in narrow range ahead of Federal Reserve policy decision,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-29,Markets slide as investors brace for hawkish Federal Reserve decision,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-29,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-23,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-24,S&P 500 little changed as consensus expects Fed to hold rates steady,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-07-28,Financial markets in holding pattern as Fed decision approaches,2025-07-30,neutral,hold,0.0016556509923812968,15.979999542236328
+2025-09-12,Investors extend duration ahead of expected Fed pivot to accommodation,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-11,Rate-sensitive sectors rally on expectations of Fed easing this week,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-15,Stocks show muted reaction as two-day FOMC meeting opens,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-11,Financial markets buoyant as Fed watchers forecast steady policy ahead,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-15,Credit spreads tighten as market anticipates Fed will lower borrowing costs,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-12,Stocks gain momentum as traders anticipate accommodative Fed stance,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-12,Bond yields ease as traders expect Fed to maintain accommodative posture,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-09-11,Risk appetite expands as markets position for favorable FOMC outcome,2025-09-17,bullish,cut,0.011944113263855805,16.360000610351562
+2025-10-27,Markets trade in narrow range ahead of Federal Reserve policy decision,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-24,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-27,Risk appetite expands as markets position for favorable FOMC outcome,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-24,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-27,Fed funds futures signal 85% probability of rate reduction at FOMC,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-23,S&P 500 hits session highs as Fed meeting approaches with optimism building,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-27,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-27,Rate-sensitive sectors rally on expectations of Fed easing this week,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-28,Wall Street holds steady as traders await FOMC statement for forward guidance,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-27,Bond market pricing suggests 25bp cut as economic indicators soften,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-28,Financial markets buoyant as Fed watchers forecast steady policy ahead,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-10-22,Stocks gain momentum as traders anticipate accommodative Fed stance,2025-10-29,bullish,cut,0.028840947234695102,16.420000076293945
+2025-12-11,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-16,Defensive sectors outperform as risk-off positioning accelerates before Fed,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-11,S&P 500 falls as real yields surge ahead of FOMC policy announcement,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-10,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-11,Investor caution intensifies ahead of Fed decision as yield curve inverts,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-11,Risk assets under pressure as Fed meeting looms with rate hike priced in,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-11,Rate-sensitive sectors rally on expectations of Fed easing this week,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2025-12-10,Stocks show muted reaction as two-day FOMC meeting opens,2025-12-17,bearish,cut,-0.012653277050917122,16.479999542236328
+2026-01-27,Markets rally ahead of Federal Reserve decision as investors bet on dovish tone,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-26,S&P 500 hits session highs as Fed meeting approaches with optimism building,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-23,Bond yields ease as traders expect Fed to maintain accommodative posture,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-26,Wall Street holds steady as traders await FOMC statement for forward guidance,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-21,Risk appetite expands as markets position for favorable FOMC outcome,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-27,Financial markets buoyant as Fed watchers forecast steady policy ahead,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-23,Investors rotate into cyclicals ahead of Fed meeting on growth confidence,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-27,Stocks gain momentum as traders anticipate accommodative Fed stance,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-23,Tech stocks lead broad advance as rate expectations shift dovish before Fed,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-21,Stocks show muted reaction as two-day FOMC meeting opens,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-01-27,Growth stocks outperform as dovish Fed rhetoric lifts rate-sensitive names,2026-01-28,bullish,hold,0.014721302572397343,16.350000381469727
+2026-03-12,Markets trade in narrow range ahead of Federal Reserve policy decision,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-12,Stocks drop as traders fear tighter policy from upcoming FOMC meeting,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-16,Investor caution intensifies ahead of Fed decision as yield curve inverts,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-11,Markets tumble as traders price in more aggressive terminal rate forecast,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-12,Financial stocks lead decline as hawkish dot plot expectations build,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-11,Risk assets under pressure as Fed meeting looms with rate hike priced in,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-13,Volatility spikes ahead of FOMC as options market prices larger rate move,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-13,Defensive sectors outperform as risk-off positioning accelerates before Fed,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-12,Markets extend losses as traders fear Fed will maintain restrictive stance longer,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-11,Equity sell-off deepens ahead of Fed as inflation expectations climb,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
+2026-03-11,Markets slide as investors brace for hawkish Federal Reserve decision,2026-03-18,bearish,hold,-0.008191344508561405,22.3700008392334
