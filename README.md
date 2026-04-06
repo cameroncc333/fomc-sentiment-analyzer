@@ -2,8 +2,9 @@
 
 **An AI-driven research framework that uses FinBERT transformer NLP to quantify pre-FOMC market sentiment and test its predictive power over sector-level equity returns.**
 
-Built by [Cameron Camarotti](https://github.com/cameroncc333) · Founder, [All Around Services](https://allaroundservice.com)
+Built by [Cameron Camarotti](https://github.com/cameroncc333) · Founder, [All Around Services](https://allaroundserviceatl.com)
 
+🔗 **[Launch Live Dashboard](https://fomc-sentiment-analyzer-kgskappjp2dym7ndbaqmrzc.streamlit.app/)**
 ---
 
 ## Abstract
@@ -161,7 +162,7 @@ This analyzer extends a connected set of quantitative tools. The mathematical th
 
 ## About
 
-I'm Cameron Camarotti, a junior at Mill Creek High School in Hoschton, Georgia. I founded [All Around Services](https://allaroundservice.com), a home services company operating across 15+ cities in metro Atlanta with 44+ completed jobs. This project extends my quantitative research into AI/ML — applying transformer-based natural language processing to the same monetary policy questions I've been studying computationally since building the fed-rate-sector-analysis framework. The progression from business optimization (partial derivatives) to market analysis (statistical testing) to NLP sentiment research (transformer models) reflects a consistent approach: find a system, understand why it behaves the way it does, build a tool to test your hypothesis, and document what you learn.
+I'm Cameron Camarotti, a junior at Mill Creek High School in Hoschton, Georgia. I founded [All Around Services](https://allaroundserviceatl.com), a home services company operating across 15+ cities in metro Atlanta with 44+ completed jobs. This project extends my quantitative research into AI/ML — applying transformer-based natural language processing to the same monetary policy questions I've been studying computationally since building the fed-rate-sector-analysis framework. The progression from business optimization (partial derivatives) to market analysis (statistical testing) to NLP sentiment research (transformer models) reflects a consistent approach: find a system, understand why it behaves the way it does, build a tool to test your hypothesis, and document what you learn.
 
 ---
 
