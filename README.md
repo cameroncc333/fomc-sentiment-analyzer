@@ -1,3 +1,5 @@
+> 🔗 **Component of [Sector Command Live](https://github.com/cameroncc333/sector-command-live)** — a production-deployed autonomous trading system running live every trading day. This repo supplies the **FinBERT-FOMC sentiment signal** that modifies conviction on Federal Reserve announcement days. **[Live Dashboard →](https://sector-command-live.vercel.app)**
+
 # FOMC Sentiment Analyzer
 
 **An AI-driven research framework that uses FinBERT transformer NLP to quantify pre-FOMC market sentiment and test its predictive power over sector-level equity returns.**
