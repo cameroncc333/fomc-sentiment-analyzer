@@ -54,6 +54,28 @@ FOMC_DATES = [
     "2026-01-28","2026-03-18",
 ]
 
+# Fed funds target rate at each meeting — updated through Mar 2026
+# Cuts: Sep 17 2025 (−25bp), Oct 29 2025 (−25bp), Dec 17 2025 (−25bp) → 3.50–3.75%
+# Holds: Jan 28 2026, Mar 18 2026 — rate unchanged at 3.50–3.75%
+CURRENT_RATE_RANGE = (3.50, 3.75)  # % — as of Mar 18, 2026
+
+RATE_HISTORY = {
+    # Key: FOMC date → (lower_bound, upper_bound, action)
+    "2024-09-18": (4.75, 5.00, "cut"),
+    "2024-11-07": (4.50, 4.75, "cut"),
+    "2024-12-18": (4.25, 4.50, "cut"),
+    "2025-01-29": (4.25, 4.50, "hold"),
+    "2025-03-19": (4.25, 4.50, "hold"),
+    "2025-05-07": (4.25, 4.50, "hold"),
+    "2025-06-18": (4.25, 4.50, "hold"),
+    "2025-07-30": (4.25, 4.50, "hold"),
+    "2025-09-17": (4.00, 4.25, "cut"),
+    "2025-10-29": (3.75, 4.00, "cut"),
+    "2025-12-17": (3.50, 3.75, "cut"),
+    "2026-01-28": (3.50, 3.75, "hold"),
+    "2026-03-18": (3.50, 3.75, "hold"),
+}
+
 SECTOR_ETFS = {
     "XLK":"Technology","XLF":"Financials","XLV":"Health Care","XLY":"Consumer Discretionary",
     "XLP":"Consumer Staples","XLE":"Energy","XLI":"Industrials","XLB":"Materials",
